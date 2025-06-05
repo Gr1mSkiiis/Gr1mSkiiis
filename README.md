@@ -1,4 +1,10 @@
-<h1>Hi, I'm Jordan! <br/> <a href="https://www.linkedin.com/in/jmartensitprofessional/">I am a IT Professional</a>
+<h1>Hi, I'm Jordan and <br/> <a href="https://www.linkedin.com/in/jmartensitprofessional/">I am a IT Professional!</a>
+
+<h2>👀 I’m interested in:</h2>
+- Networking
+- Cyber Security
+- Systems Administration
+- HomeLabbing
 
 <h2>🛜 Networking Projects:</h2>
 
